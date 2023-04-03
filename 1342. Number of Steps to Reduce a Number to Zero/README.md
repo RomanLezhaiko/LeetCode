@@ -1,7 +1,7 @@
-1342. Number of Steps to Reduce a Number to Zero
+# 1342. Number of Steps to Reduce a Number to Zero
 
-Topic: Math, Bit Manipulation
-Difficulty: Easy
+### Topic: Math, Bit Manipulation
+### Difficulty: Easy
 
 
 Given an integer num, return the number of steps to reduce it to zero.
