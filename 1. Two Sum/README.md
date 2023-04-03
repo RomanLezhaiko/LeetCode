@@ -1,8 +1,7 @@
-1. Two Sum
+# 1. Two Sum
 
-Topic: Array, Hash Table
-Difficulty: Easy
-
+### Topic: Array, Hash Table
+### Difficulty: Easy
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
